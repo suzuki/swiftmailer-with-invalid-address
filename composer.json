@@ -1,0 +1,13 @@
+{
+    "name": "suzuki/swiftmailer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Norio Suzuki",
+            "email": "norio.suzuki@gmail.com"
+        }
+    ],
+    "require": {
+        "swiftmailer/swiftmailer": "^5.4"
+    }
+}
