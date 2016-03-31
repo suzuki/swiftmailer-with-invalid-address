@@ -1,0 +1,1 @@
+# swiftmailer-with-invalid-address
